@@ -38,12 +38,4 @@
 - [Zapier: Work automation](https://zapier.com/)
 
 
-## 🧑‍💻 Contributors
-- [@Ali Hossain](https://github.com/shovoalways/)
 
-
-## 🥰 Follow me
-- [@Github](https://github.com/shovoalways/) 
-- [@Facebook](https://facebook.com/shovoalways/) 
-- [@Twitter](https://twitter.com/shovoalways/) 
-- [@Instagram](https://instagram.com/shovoalways/) 
